@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "postcss": "^8.4.4"
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.4",
+    "sass-loader": "^12.4.0"
   }
 }
