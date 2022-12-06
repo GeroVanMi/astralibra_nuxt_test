@@ -19,6 +19,7 @@ export default {
 <style lang="css">
   body {
     background: #252533;
+    min-height: 100vh;
   }
 
   .indented {
@@ -41,7 +42,7 @@ export default {
 
   .section {
     opacity: 0;
-    transition: opacity 250ms, transform 250ms;
+    transition: opacity 500ms, transform 600ms;
     transform: translateY(15px);
   }
 

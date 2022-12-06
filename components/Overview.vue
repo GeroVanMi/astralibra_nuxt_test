@@ -4,7 +4,6 @@
     <Title/>
     <Work/>
     <Bio/>
-    <Links/>
   </article>
 </template>
 
